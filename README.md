@@ -1,0 +1,2 @@
+# Inverted-Search-Engine-Using-Hash-Tables-and-Linked-Lists-in-C
+Developed an Inverted Search Engine in C to organize and retrieve words from multiple text files. Uses hash tables and linked lists to store words, filenames, and word frequencies. Includes file validation, database creation, and a menu-driven interface, demonstrating data structures, pointers, dynamic memory allocation, and file handling
